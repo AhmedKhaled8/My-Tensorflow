@@ -1,4 +1,4 @@
-[My-Tensorflow](https://github.com/AhmedKhaled8/My-Tensorflow) is a repository that contains some projects I have through the journery of learning TensorFlow/Keras and some code-snippets-based notes about some of the fundementals of using TensorFlow.
+[My-Tensorflow](https://github.com/AhmedKhaled8/My-Tensorflow) is a repository that contains some projects I have done through the journery of learning TensorFlow/Keras and some code-snippets-based notes about some of the fundementals of using TensorFlow.
 
 **List of Contents**
 - [0. Projects](#0-projects)
